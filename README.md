@@ -1,4 +1,4 @@
-# 🔥 Глубокий разбор ключевых концепций AI
+# 🔥 AI hype и критическое мышление
 
 <img width="624" height="624" alt="Image" src="https://github.com/user-attachments/assets/87117575-0686-43f6-8d15-91a2cd06bf79" />
 
